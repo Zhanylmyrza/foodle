@@ -1,1 +1,12 @@
 # foodle
+![image](https://user-images.githubusercontent.com/93324684/172516715-823dfc6c-0410-42a2-b6bf-eb76dac7355b.png)
+![image](https://user-images.githubusercontent.com/93324684/172516818-29e6db1f-bfa2-4538-865a-2cb5db0487b2.png)
+![image](https://user-images.githubusercontent.com/93324684/172516877-4451286a-236b-4ede-bdd1-176498de72a0.png)
+![image](https://user-images.githubusercontent.com/93324684/172516957-ccc098d2-c56c-4baf-9a4d-0d0b5aa22e94.png)
+![image](https://user-images.githubusercontent.com/93324684/172517254-7ecfb192-b314-4c1c-bbf8-d5291879cee9.png)
+![image](https://user-images.githubusercontent.com/93324684/172517351-d69e782f-46ef-42ad-ae86-118689ccc7bc.png)
+![image](https://user-images.githubusercontent.com/93324684/172517448-827f59d9-6125-4324-831f-12a6270de3c6.png)
+![image](https://user-images.githubusercontent.com/93324684/172517530-0c954378-dce5-4c99-bd6b-8d46f0d2addd.png)
+![image](https://user-images.githubusercontent.com/93324684/172517639-4854a75e-dcb2-4df3-ae7c-080844851b83.png)
+![image](https://user-images.githubusercontent.com/93324684/172517762-56d14f90-afbb-46d5-8056-2b5c5fc509a6.png)
+![image](https://user-images.githubusercontent.com/93324684/172517841-e470438f-746c-41fa-83ab-c13f103c14a9.png)
